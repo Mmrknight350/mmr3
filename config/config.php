@@ -96,13 +96,13 @@ $config['timeZone'] =  $_ENV['TIMEZONE'];
 
 */
 
-$config['db']['hostname'] =  $_ENV['DB_HOST'];
+$config['db']['hostname'] =  $_ENV['sql5.freesqldatabase.com'];
 
-$config['db']['username'] =  $_ENV['DB_USERNAME'];
+$config['db']['username'] =  $_ENV['sql5514577'];
 
-$config['db']['password'] =  $_ENV['DB_PASSWORD'];
+$config['db']['password'] =  $_ENV['RVzURwXiUT'];
 
-$config['db']['database'] =  $_ENV['DB_NAME'];
+$config['db']['database'] =  $_ENV['sql5514577'];
 
 /*
 
