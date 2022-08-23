@@ -18,7 +18,7 @@
 
 */
 
-$config['botToken'] = "5669084902:AAHGek1i_7vqf5X51PahDXJip4RYpKIjekU";
+$config['botToken'] = "5669084902:AAHJtgvC7Cpe4NhEDeo3vODPQiTY1LXCaVg";
 
 /*
 
@@ -122,7 +122,7 @@ $config['db']['database'] =  "sql5514577";
 
 */
 
-$config['anti_spam_timer'] =  "20";
+$config['anti_spam_timer'] =  "5";
 
 /*
 
